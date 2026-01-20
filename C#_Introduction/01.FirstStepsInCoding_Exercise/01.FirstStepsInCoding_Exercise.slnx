@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01.USDToBGN/01.USDToBGN.csproj" />
+  <Project Path="02.RadiansToDegrees/02.RadiansToDegrees.csproj" />
+  <Project Path="03.DepositCalculator/03.DepositCalculator.csproj" />
+  <Project Path="04.VacationBooksList/04.VacationBooksList.csproj" Id="e916cb66-2a08-492d-997d-1a895bc7a84e" />
+  <Project Path="05.SuppliesForSchool/05.SuppliesForSchool.csproj" Id="a2de0384-6472-407f-a88d-ae9917456157" />
+  <Project Path="06.Repainting/06.Repainting.csproj" Id="a734c187-0463-4767-850f-bc91d4bbc238" />
+  <Project Path="07.FoodDelivery/07.FoodDelivery.csproj" Id="89ff7240-8009-4fae-b8b7-01501022f93d" />
+  <Project Path="08.BasketballEquipment/08.BasketballEquipment.csproj" Id="cb6b530e-a7b5-46b0-a6fa-a3aa74980ae4" />
+  <Project Path="09.FishTank/09.FishTank.csproj" Id="7cdd0ee6-882b-42c9-b906-86d90c01c5e7" />
+</Solution>

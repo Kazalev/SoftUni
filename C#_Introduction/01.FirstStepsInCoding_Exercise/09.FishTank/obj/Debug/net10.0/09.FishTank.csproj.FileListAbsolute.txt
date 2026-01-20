@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\bin\Debug\net10.0\09.FishTank.exe
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\bin\Debug\net10.0\09.FishTank.deps.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\bin\Debug\net10.0\09.FishTank.runtimeconfig.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\bin\Debug\net10.0\09.FishTank.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\bin\Debug\net10.0\09.FishTank.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.AssemblyInfo.cs
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\refint\09.FishTank.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\09.FishTank.genruntimeconfig.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\09.FishTank\obj\Debug\net10.0\ref\09.FishTank.dll

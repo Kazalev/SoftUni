@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\bin\Debug\net10.0\05.SuppliesForSchool.exe
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\bin\Debug\net10.0\05.SuppliesForSchool.deps.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\bin\Debug\net10.0\05.SuppliesForSchool.runtimeconfig.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\bin\Debug\net10.0\05.SuppliesForSchool.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\bin\Debug\net10.0\05.SuppliesForSchool.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.AssemblyInfo.cs
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\refint\05.SuppliesForSchool.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\05.SuppliesForSchool.genruntimeconfig.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\05.SuppliesForSchool\obj\Debug\net10.0\ref\05.SuppliesForSchool.dll

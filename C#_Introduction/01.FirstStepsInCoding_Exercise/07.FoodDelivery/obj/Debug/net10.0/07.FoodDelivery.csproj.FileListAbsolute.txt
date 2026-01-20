@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.AssemblyInfo.cs
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\bin\Debug\net10.0\07.FoodDelivery.exe
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\bin\Debug\net10.0\07.FoodDelivery.deps.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\bin\Debug\net10.0\07.FoodDelivery.runtimeconfig.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\bin\Debug\net10.0\07.FoodDelivery.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\bin\Debug\net10.0\07.FoodDelivery.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\refint\07.FoodDelivery.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\07.FoodDelivery.genruntimeconfig.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Exercise\07.FoodDelivery\obj\Debug\net10.0\ref\07.FoodDelivery.dll

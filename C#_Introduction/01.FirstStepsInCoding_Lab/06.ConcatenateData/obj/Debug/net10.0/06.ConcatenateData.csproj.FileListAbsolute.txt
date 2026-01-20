@@ -1,0 +1,14 @@
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\bin\Debug\net10.0\06.ConcatenateData.exe
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\bin\Debug\net10.0\06.ConcatenateData.deps.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\bin\Debug\net10.0\06.ConcatenateData.runtimeconfig.json
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\bin\Debug\net10.0\06.ConcatenateData.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\bin\Debug\net10.0\06.ConcatenateData.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.AssemblyInfo.cs
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\refint\06.ConcatenateData.dll
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.pdb
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\06.ConcatenateData.genruntimeconfig.cache
+D:\Projects\SoftUni\C#_Introduction\01.FirstStepsInCoding_Lab\06.ConcatenateData\obj\Debug\net10.0\ref\06.ConcatenateData.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\SoftUni\\C#_Introduction\\01.FirstStepsInCoding_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24AD970-3397-4612-A53C-DB4E90B7E09C}|09.YardGreening\\09.YardGreening.csproj|d:\\projects\\softuni\\c#_introduction\\01.firststepsincoding_lab\\09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24AD970-3397-4612-A53C-DB4E90B7E09C}|09.YardGreening\\09.YardGreening.csproj|solutionrelative:09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\SoftUni\\C#_Introduction\\01.FirstStepsInCoding_Lab\\09.YardGreening\\Program.cs",
+              "RelativeDocumentMoniker": "09.YardGreening\\Program.cs",
+              "ToolTip": "D:\\Projects\\SoftUni\\C#_Introduction\\01.FirstStepsInCoding_Lab\\09.YardGreening\\Program.cs",
+              "RelativeToolTip": "09.YardGreening\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:11:24.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

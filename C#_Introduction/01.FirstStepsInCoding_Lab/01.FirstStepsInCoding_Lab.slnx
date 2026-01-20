@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01.HelloSoftUni/01.HelloSoftUni.csproj" />
+  <Project Path="02.Nums1To10/02.Nums1To10.csproj" />
+  <Project Path="03.RectangleArea/03.RectangleArea.csproj" />
+  <Project Path="04.InchesToCentimeters/04.InchesToCentimeters.csproj" />
+  <Project Path="05.GreetingByName/05.GreetingByName.csproj" />
+  <Project Path="06.ConcatenateData/06.ConcatenateData.csproj" Id="8c48718f-ca2c-4ca9-8fcd-2b832a6fcb4f" />
+  <Project Path="07.ProjectsCreation/07.ProjectsCreation.csproj" Id="8e56d934-c3ab-4740-875c-f45701b8ad9d" />
+  <Project Path="08.PetShop/08.PetShop.csproj" Id="dc105887-4978-411f-a70c-2ad1f9961b51" />
+  <Project Path="09.YardGreening/09.YardGreening.csproj" Id="a24ad970-3397-4612-a53c-db4e90b7e09c" />
+</Solution>
