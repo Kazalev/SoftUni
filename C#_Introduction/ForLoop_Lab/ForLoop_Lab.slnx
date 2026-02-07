@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="07.SumNumbers/07.SumNumbers.csproj" Id="35ca9208-ecbe-4870-af81-b1b89513f671" />
+  <Project Path="08.NumberSequence/08.NumberSequence.csproj" Id="3a208e4a-77f8-48d9-b759-cfa363d2fbcb" />
+  <Project Path="09.LeftAndRightSum/09.LeftAndRightSum.csproj" Id="0d80d9fb-4615-4533-8756-ea4573318825" />
+  <Project Path="10.OddEvenSum/10.OddEvenSum.csproj" Id="c6fdf402-fb28-48ae-bdaa-80ec04f66d98" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/01.NumbersFrom1To100/01.NumbersFrom1To100.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/02.NumbersNTo1/02.NumbersNTo1.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/03.Numbers1ToNwithStep3/03.Numbers1ToNwithStep3.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/04.EvenPowersOf2/04.EvenPowersOf2.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/05.CharacterSequence/05.CharacterSequence.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Introduction/ForLoop_Lab/06.VowelsSum/06.VowelsSum.csproj" />
+</Solution>
