@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01.ReadText/01.ReadText.csproj" />
+  <Project Path="02.Password/02.Password.csproj" Id="a7eebc74-957d-4e3a-b233-c66b040a1ed3" />
+  <Project Path="03.SumNumbers/03.SumNumbers.csproj" Id="b347ab58-d8cd-4744-9de5-c792f5ff0ae9" />
+  <Project Path="04.Sequence2k+1/04.Sequence2k+1.csproj" Id="53a2ad50-e4c6-48f3-9c6a-8ffe580cdae4" />
+  <Project Path="05.AccountBalance/05.AccountBalance.csproj" Id="3d4527eb-b961-41e1-957d-660af9ecf532" />
+  <Project Path="06.MaxNumber/06.MaxNumber.csproj" Id="b5cdda8a-0742-4c8f-b824-2ead993e77c0" />
+  <Project Path="07.MinNumber/07.MinNumber.csproj" Id="31506c65-ca8e-4852-a87e-20e2afb3b319" />
+  <Project Path="test/08.Graduation.csproj" Id="44723b2d-41f1-4a2f-a67f-d513cc5f3302" />
+</Solution>
