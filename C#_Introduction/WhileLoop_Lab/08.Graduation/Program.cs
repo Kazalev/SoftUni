@@ -2,9 +2,9 @@
 
 int grades = 0;
 int excluded = 0;
-double avgGrade = 0;
+double sum = 0;
 
-while (grades <= 12)
+while (grades < 12)
 {
     double yearGrade = double.Parse(Console.ReadLine());
 
@@ -12,15 +12,15 @@ while (grades <= 12)
     {
         excluded++;
         if (excluded > 1) break;
+        grades++;
         continue;
     }
     else
     {
-        avgGrade += yearGrade;
+        sum += yearGrade;
         grades++;
-
     }
 }
 
 if (grades < 12) Console.WriteLine($"{name} has been excluded at {grades} grade");
-else Console.WriteLine($"{name} graduated. Average grade: {avgGrade / 12:F2}");
+else Console.WriteLine($"{name} graduated. Average grade: {sum / 12:F2}");

@@ -6,5 +6,5 @@
   <Project Path="05.AccountBalance/05.AccountBalance.csproj" Id="3d4527eb-b961-41e1-957d-660af9ecf532" />
   <Project Path="06.MaxNumber/06.MaxNumber.csproj" Id="b5cdda8a-0742-4c8f-b824-2ead993e77c0" />
   <Project Path="07.MinNumber/07.MinNumber.csproj" Id="31506c65-ca8e-4852-a87e-20e2afb3b319" />
-  <Project Path="test/08.Graduation.csproj" Id="44723b2d-41f1-4a2f-a67f-d513cc5f3302" />
+  <Project Path="08.Graduation/08.Graduation.csproj" Id="4e9e3f94-d5eb-4e4b-a85a-8f84ee697f5a" />
 </Solution>
