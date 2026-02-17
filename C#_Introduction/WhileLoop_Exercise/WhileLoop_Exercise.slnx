@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01.OldBooks/01.OldBooks.csproj" />
+  <Project Path="02.ExamPreparation/02.ExamPreparation.csproj" />
+  <Project Path="03.Vacation/03.Vacation.csproj" />
+  <Project Path="04.Walking/04.Walking.csproj" />
+  <Project Path="05.Coins/05.Coins.csproj" />
+  <Project Path="06.Cake/06.Cake.csproj" />
+  <Project Path="07.Moving/07.Moving.csproj" />
+</Solution>
