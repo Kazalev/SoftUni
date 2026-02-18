@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.Clock/01.Clock.csproj" />
+  <Project Path="02.MultiplicationTable/02.MultiplicationTable.csproj" />
+  <Project Path="03.Combinations/03.Combinations.csproj" />
+  <Project Path="04.SumFfTwoNumbers/04.SumFfTwoNumbers.csproj" />
+  <Project Path="05.Travelling/05.Travelling.csproj" />
+  <Project Path="06.Building/06.Building.csproj" />
+</Solution>
