@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.NumberPyramid/01.NumberPyramid.csproj" />
+  <Project Path="02.EqualSumsEvenOddPosition/02.EqualSumsEvenOddPosition.csproj" />
+  <Project Path="03.SumPrimeNonPrime/03.SumPrimeNonPrime.csproj" />
+  <Project Path="04.TrainTheTrainers/04.TrainTheTrainers.csproj" />
+  <Project Path="05.SpecialNumbers/05.SpecialNumbers.csproj" />
+  <Project Path="06.CinemaTickets/06.CinemaTickets.csproj" />
+</Solution>
