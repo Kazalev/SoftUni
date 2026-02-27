@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.FruitMarket/01.FruitMarket.csproj" />
+  <Project Path="02.Safari/02.FamilyTrip.csproj" Id="80eea0b5-f15b-4d10-b442-aca1834e7c56" />
+  <Project Path="03.MovieDestination/03.MovieDestination.csproj" Id="8ab3175a-bcbb-497a-8285-cf1fbcec83cc" />
+  <Project Path="04.FoodForPets/04.FoodForPets.csproj" Id="0d67d226-2157-4535-b1e7-b7c908506e8c" />
+  <Project Path="05.EasterEggsBattle/05.EasterEggsBattle.csproj" Id="fa94b39e-c43f-4f7d-bb91-f411d598a1fc" />
+  <Project Path="06.TournamentOfChristmas/06.TournamentOfChristmas.csproj" Id="fa095727-b893-4f85-9ec8-918cc367f42b" />
+</Solution>
