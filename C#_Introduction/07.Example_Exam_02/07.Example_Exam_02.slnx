@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.AgencyProfit/01.AgencyProfit.csproj" />
+  <Project Path="02.AddBags/02.AddBags.csproj" />
+  <Project Path="03.AluminumJoinery/03.AluminumJoinery.csproj" />
+  <Project Path="04.Balls/04.Balls.csproj" />
+  <Project Path="05.BestPlayer/05.BestPlayer.csproj" />
+  <Project Path="06.BarcodeGenerator/06.BarcodeGenerator.csproj" />
+</Solution>
