@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.Excursion/01.Excursion.csproj" />
+  <Project Path="02.MaidenParty/02.MaidenParty.csproj" />
+  <Project Path="03.CourierExpress/03.CourierExpress.csproj" />
+  <Project Path="04.Exam/04.Exam.csproj" />
+  <Project Path="05.ExcursionSale/05.ExcursionSale.csproj" />
+  <Project Path="06.GoldMine/06.GoldMine.csproj" />
+</Solution>
