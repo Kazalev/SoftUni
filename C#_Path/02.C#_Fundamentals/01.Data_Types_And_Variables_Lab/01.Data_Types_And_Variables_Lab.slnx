@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="01.Convert_Meters_To_Kilometers/01.Convert_Meters_To_Kilometers.csproj" />
+  <Project Path="02.PoundsТoDollars/02.PoundsТoDollars.csproj" Id="4f7893d2-9358-4f7d-b901-8ae820879755" />
+  <Project Path="03.ExactSumOfRealNumbers/03.ExactSumOfRealNumbers.csproj" Id="9c97f50b-8dc5-4b43-81a8-db722a2b42e2" />
+  <Project Path="04.CenturiesToMinutes/04.CenturiesToMinutes.csproj" Id="d0fe59ed-f787-4ac5-a1e7-00076465dfa1" />
+  <Project Path="05.SpecialNumbers/05.SpecialNumbers.csproj" Id="c64528b9-a115-455a-8fbc-b620cd4a8d2f" />
+  <Project Path="06.ReversedChars/06.ReversedChars.csproj" Id="00dee351-ecb4-40cb-90fa-b0153acd2c3b" />
+  <Project Path="07.ConcatNames/07.ConcatNames.csproj" Id="76869cd4-5507-42c4-a25f-46f8c668fde5" />
+  <Project Path="08.TownInfo/08.TownInfo.csproj" Id="fcca1e66-e0e8-495e-8339-436619e8df32" />
+  <Project Path="09.CharsToString/09.CharsToString.csproj" Id="7acc80c7-efaa-4ff5-b43d-b0ea9919e040" />
+  <Project Path="10.LowerOrUpper/10.LowerOrUpper.csproj" Id="1b87923f-d0a5-48df-92dc-e6c017a65ab7" />
+  <Project Path="11. VolumeOfPyramid/11. VolumeOfPyramid.csproj" Id="5a7cc88b-aff3-4740-9b13-3bbbdaae7037" />
+  <Project Path="12.RefactorSpecialNumbers/12.RefactorSpecialNumbers.csproj" Id="44d18385-cb54-4cfb-87bc-021afb4136ec" />
+</Solution>
