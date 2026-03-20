@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="07.WaterOverflow/07.WaterOverflow.csproj" Id="ca6eafc6-d68d-416c-aefa-d086f961434a" />
+  <Project Path="10.Pokemon/10.Pokemon.csproj" Id="d10933e3-c7ba-48f1-af37-4faa449fe1ae" />
+  <Project Path="11.Snowballs/11.Snowballs.csproj" Id="3178105d-fc88-4f33-85c6-984eb341ef84" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/01.IntegerOperations/01.IntegerOperations.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/02.SumDigits/02.SumDigits.csproj" Id="84bc6071-e9b3-45de-9c38-6f012041e98e" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/03.Elevator/03.Elevator.csproj" Id="92226003-8465-4a2e-87b2-79d8305e0b94" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/04.SumOfChars/04.SumOfChars.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/05.PrintPartOfASCIITable/05.PrintPartOfASCIITable.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/06.TriplesOfLatinLetters/06.TriplesOfLatinLetters.csproj" Id="e21bbac6-4c39-4801-b83c-02b36b8095ce" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/08.BeerKegs/08.BeerKegs.csproj" Id="2ced8e73-17d3-49de-8b93-b665f258ab50" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/01.DataTypesAndVariables_Exercise/09.SpiceMustFlow/09.SpiceMustFlow.csproj" Id="e802c4a4-e91f-4913-b2a5-1f936cda4aa3" />
+</Solution>
