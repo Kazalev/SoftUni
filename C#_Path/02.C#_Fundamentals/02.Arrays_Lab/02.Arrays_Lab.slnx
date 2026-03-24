@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01.DayOfWeek/01.DayOfWeek.csproj" />
+  <Project Path="02.PrintNumbersInReverseOrder/02.PrintNumbersInReverseOrder.csproj" Id="cc58639a-ead0-42f7-9b29-69ed270ea2d4" />
+  <Project Path="03.RoundingNumbers/03.RoundingNumbers.csproj" Id="512271fb-c883-4ed1-9d73-24255c7cc5c4" />
+  <Project Path="04.ReverseArrayOfStrings/04.ReverseArrayOfStrings.csproj" Id="79189989-8963-4759-9cae-411832a941d8" />
+  <Project Path="05.SumEvenNumbers/05.SumEvenNumbers.csproj" Id="d8e68dc8-a54f-459e-9566-79a4d46d07c0" />
+  <Project Path="06.EvenAndOddSubtraction/06.EvenAndOddSubtraction.csproj" Id="410138aa-f81d-4b14-b2d1-0f892c7e04ec" />
+  <Project Path="07.EqualArrays/07.EqualArrays.csproj" Id="18e20e82-e33c-4f39-ac10-aa8650dda0e4" />
+  <Project Path="08.CondenseArrayToNumber/08.CondenseArrayToNumber.csproj" Id="012b8c14-ac4b-4f66-a639-10f2ff8168df" />
+</Solution>
