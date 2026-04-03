@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01.Train/01.Train.csproj" />
+  <Project Path="02.CommonElements/02.CommonElements.csproj" />
+  <Project Path="03.ZigZagArrays/03.ZigZagArrays.csproj" Id="c67ac004-e4c6-4095-87cc-3817b6217732" />
+  <Project Path="04.ArrayRotation/04.ArrayRotation.csproj" />
+  <Project Path="05.TopIntegers/05.TopIntegers.csproj" Id="cd86d336-5b6f-485a-9049-f702f6c07ed0" />
+  <Project Path="06.EqualSum/06.EqualSum.csproj" Id="78e3a1ea-2333-4ceb-9185-646cd5622b23" />
+  <Project Path="07.MaxSequenceOfEqualElements/07.MaxSequenceOfEqualElements.csproj" Id="f2c98dc4-207f-4ca2-a7ba-93bd1cf321d9" />
+  <Project Path="08.MagicSum/08.MagicSum.csproj" Id="31da114e-d57d-4557-8863-098b5c76844e" />
+  <Project Path="10.LadyBugs/10.LadyBugs.csproj" />
+</Solution>
