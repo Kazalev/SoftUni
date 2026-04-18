@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="02.VowelsCount/02.VowelsCount.csproj" Id="2b27fcd8-7ccd-40b2-956a-3a8d1ab8f117" />
+  <Project Path="03.CharactersInRange/03.CharactersInRange.csproj" Id="ad5a52bc-263f-4c74-b038-29ce85881c05" />
+  <Project Path="05.AddAndSubtract/05.AddAndSubtract.csproj" Id="a39cbad6-5b4f-4eec-aa20-173f157717db" />
+  <Project Path="06.MiddleCharacters/06.MiddleCharacters.csproj" Id="63a53540-f5a5-4e9c-bfbc-dbc610b3fdf3" />
+  <Project Path="07.NxNMatrix/07.NxNMatrix.csproj" Id="da006fab-735e-412b-94bc-02b4f2e41c65" />
+  <Project Path="08.FactorialDivision/08.FactorialDivision.csproj" Id="b0c7d5fa-bc07-423f-9ebc-bd607a5bd5a1" />
+  <Project Path="09.PalindromeIntegers/09.PalindromeIntegers.csproj" Id="9f9954b9-6b47-49eb-bf0e-475096d093b3" />
+  <Project Path="10.TopNumber/10.TopNumber.csproj" Id="da553957-4882-4c13-8780-830fd33cd6bb" />
+  <Project Path="11.ArrayManipulator/11.ArrayManipulator.csproj" Id="0d70af97-a077-40f1-aaa8-caad14a19fc2" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/03.Methods_Exercise/01.SmallestOfThreeNumbers/01.SmallestOfThreeNumbers.csproj" Id="b2878422-28a8-46a3-a086-7e7f4b28a235" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/02.C#_Fundamentals/03.Methods_Exercise/04.PasswordValidator/04.PasswordValidator.csproj" />
+</Solution>
