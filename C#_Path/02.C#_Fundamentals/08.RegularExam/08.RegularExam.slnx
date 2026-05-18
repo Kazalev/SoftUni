@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01.GoogleSearches/01.GoogleSearches.csproj" />
+  <Project Path="02.GeneratingNumbers/02.GeneratingNumbers.csproj" />
+  <Project Path="03.GoldenTreasure/03.GoldenTreasure.csproj" />
+  <Project Path="04.MonthlyReport/04.MonthlyReport.csproj" Id="27a73cf4-855c-477d-a975-87cbc1ef9333" />
+</Solution>
