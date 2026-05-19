@@ -1,4 +1,9 @@
 <Solution>
-  <Project Path="01.AdvertisementMessage/01.AdvertisementMessage.csproj" />
-  <Project Path="02.Articles/02.Articles.csproj" />
+  <Project Path="04.Students/04.Students.csproj" Id="b5b7fb4d-7d22-4691-9b7a-834af20fbff5" />
+  <Project Path="05.TeamworkProjects/05.TeamworkProjects.csproj" Id="b5e1e55b-4dd6-4429-bb6d-67b092d73277" />
+  <Project Path="06.VehicleCatalogue/06.VehicleCatalogue.csproj" Id="a1aed424-4154-4ea7-8998-14451eb9ba2c" />
+  <Project Path="07.OrderByAge/07.OrderByAge.csproj" Id="03f12c51-5f89-42e8-ab67-8e1fd3043efb" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/03.C#_OOP/01.ObjectsAndClasses_Exercise/01.AdvertisementMessage/01.AdvertisementMessage.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/03.C#_OOP/01.ObjectsAndClasses_Exercise/02.Articles/02.Articles.csproj" />
+  <Project Path="D:/Projects/SoftUni/C#_Path/03.C#_OOP/01.ObjectsAndClasses_Exercise/03.Articles2.0/03.Articles2.0.csproj" />
 </Solution>
